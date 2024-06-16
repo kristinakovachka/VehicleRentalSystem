@@ -1,0 +1,15 @@
+C:\Users\Kristina\Desktop\C# Fund 2024\Vehicle_Rental\Vehicle_Rental\bin\Debug\net6.0\Vehicle_Rental.exe
+C:\Users\Kristina\Desktop\C# Fund 2024\Vehicle_Rental\Vehicle_Rental\bin\Debug\net6.0\Vehicle_Rental.deps.json
+C:\Users\Kristina\Desktop\C# Fund 2024\Vehicle_Rental\Vehicle_Rental\bin\Debug\net6.0\Vehicle_Rental.runtimeconfig.json
+C:\Users\Kristina\Desktop\C# Fund 2024\Vehicle_Rental\Vehicle_Rental\bin\Debug\net6.0\Vehicle_Rental.dll
+C:\Users\Kristina\Desktop\C# Fund 2024\Vehicle_Rental\Vehicle_Rental\bin\Debug\net6.0\Vehicle_Rental.pdb
+C:\Users\Kristina\Desktop\C# Fund 2024\Vehicle_Rental\Vehicle_Rental\obj\Debug\net6.0\Vehicle_Rental.csproj.AssemblyReference.cache
+C:\Users\Kristina\Desktop\C# Fund 2024\Vehicle_Rental\Vehicle_Rental\obj\Debug\net6.0\Vehicle_Rental.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristina\Desktop\C# Fund 2024\Vehicle_Rental\Vehicle_Rental\obj\Debug\net6.0\Vehicle_Rental.AssemblyInfoInputs.cache
+C:\Users\Kristina\Desktop\C# Fund 2024\Vehicle_Rental\Vehicle_Rental\obj\Debug\net6.0\Vehicle_Rental.AssemblyInfo.cs
+C:\Users\Kristina\Desktop\C# Fund 2024\Vehicle_Rental\Vehicle_Rental\obj\Debug\net6.0\Vehicle_Rental.csproj.CoreCompileInputs.cache
+C:\Users\Kristina\Desktop\C# Fund 2024\Vehicle_Rental\Vehicle_Rental\obj\Debug\net6.0\Vehicle_Rental.dll
+C:\Users\Kristina\Desktop\C# Fund 2024\Vehicle_Rental\Vehicle_Rental\obj\Debug\net6.0\refint\Vehicle_Rental.dll
+C:\Users\Kristina\Desktop\C# Fund 2024\Vehicle_Rental\Vehicle_Rental\obj\Debug\net6.0\Vehicle_Rental.pdb
+C:\Users\Kristina\Desktop\C# Fund 2024\Vehicle_Rental\Vehicle_Rental\obj\Debug\net6.0\Vehicle_Rental.genruntimeconfig.cache
+C:\Users\Kristina\Desktop\C# Fund 2024\Vehicle_Rental\Vehicle_Rental\obj\Debug\net6.0\ref\Vehicle_Rental.dll
